@@ -1,0 +1,7 @@
+{
+  "clusterCompactionSpec" : {
+    "hosts" : [ {
+      "id" : "07fe6711-8e8e-4b0f-8af2-c8238e2de6a6"
+    } ]
+  }
+}
